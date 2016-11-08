@@ -1,0 +1,25 @@
+{
+    "extName": {
+        "message": "Original Images on Twitter"
+    },
+
+    "extDescription": {
+        "message": "Opens or Downloads Original Images on Twitter"
+    },
+
+    "originalImage": {
+        "message": "Original Image..."
+    },
+
+    "openOriginal": {
+        "message": "Open in New Tab"
+    },
+
+    "download": {
+        "message": "Download"
+    },
+
+    "downloadAs": {
+        "message": "Download As..."
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "extName": {
+        "message": "Original Images on Twitter"
+    },
+
+    "extDescription": {
+        "message": "Twitter の画像を原寸表示したり、ダウンロードすることができる拡張機能です。"
+    },
+
+    "originalImage": {
+        "message": "原寸画像を..."
+    },
+
+    "openOriginal": {
+        "message": "新しいタブで表示"
+    },
+
+    "download": {
+        "message": "ダウンロード"
+    },
+
+    "downloadAs": {
+        "message": "名前をつけてダウンロード"
+    }
+}
